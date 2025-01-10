@@ -1,5 +1,6 @@
 afmparser==1.0.3
 alembic==1.13.2
+dd==0.6.0
 aniso8601==9.0.1
 antlr4-python3-runtime==4.13.1
 astutils==0.0.6
